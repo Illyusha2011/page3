@@ -1,0 +1,62 @@
+body{
+    background-image: url(https://tourlib.net/statti_otdyh/images/espania.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#container {
+    background-color: lightblue; 
+    border: 5px solid white; 
+    padding: 20px; 
+    border-radius: 20px;
+  }
+  h1{
+    text-align: center;
+  }
+  p{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(219, 157, 22);
+  }
+
+  li {
+    background-color: rgba(0, 0, 0, 0.5); 
+    padding: 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+    color: burlywood;
+    font-size: x-large;
+}
+
+
+.fact {
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
+
+.fact-img {
+width: 300px;
+height: 300;
+  margin-left: 750px;
+}
+
+h2 {
+  font-size: 24px;
+  text-align: center;
+  margin-bottom: 20px;
+  font-weight: bold;
+  text-transform: uppercase;
+  background: linear-gradient(to right, #690000, #0000FF);
+  color: transparent; 
+  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.5);
+}
+
+header{
+  background-color: rgba(0, 0, 0, 0.5); 
+  padding: 20px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+}
